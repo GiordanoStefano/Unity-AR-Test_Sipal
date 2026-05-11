@@ -4,9 +4,9 @@ Sipal / Test tecnico Unity AR
 # AR Car Viewer
 L'applicazione permette di visualizzare e interagire con un modello 3D di una Audi a7 55 tfsi in Realtà Aumentata.
 Sono possibili le seguenti modifiche:
-- Traslazione
-- Rotazione
-- Scala
+- Traslazione (Drag con 1 dito)
+- Rotazione (Twist con 2 dia)
+- Scala (Pinch con 2 dita)
 
 E' possibile visualizzare ed editare un modulo di report in app.
 Successivamente il report può essere salvato sul dispositivo come file Json. Il path di salvataggio verrà stampato a schermo.
