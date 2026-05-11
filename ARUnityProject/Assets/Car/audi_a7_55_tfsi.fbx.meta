@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: d82f55712b422a44e8914d31596a3ff0
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hazard Light.001
+    second: {fileID: 2100000, guid: 59bf3cefa8c8c754fa1c41b412bb029c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior
+    second: {fileID: 2100000, guid: de6d97c7712c70047a18b68842e5e61c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED SCREEN.002
+    second: {fileID: 2100000, guid: 9b73735b37f7d854d9a58852120da296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main LED screen.002
+    second: {fileID: 2100000, guid: 96b6593f79f4e5f40984960535916d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange.001
+    second: {fileID: 2100000, guid: 7154e045184f1794ca4c405e6854c553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beam
+    second: {fileID: 2100000, guid: 1a5fb180ce09cf849b2883ce8d310ffe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_carbon
+    second: {fileID: 2100000, guid: acdaa96b96866c34392463b39b115b5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_metal
+    second: {fileID: 2100000, guid: e9943534e5ad59c4d98f62bae30d9847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brake
+    second: {fileID: 2100000, guid: ff5ce113682be53469265d5c3acd857a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car_paint
+    second: {fileID: 2100000, guid: da7d4160f7f41044d935c573f239ba8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbon_gray
+    second: {fileID: 2100000, guid: 3ed42d57b9c6ea641b49e8e55fcaf507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark
+    second: {fileID: 2100000, guid: 365a7ce49dd16b944bd0fcbcb09680b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front-lights
+    second: {fileID: 2100000, guid: def0ca8da56e61343986376358c090f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 73ce2b4cfce7b734987bf702205eb21a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass2
+    second: {fileID: 2100000, guid: e27efc63450a44d45bc577e58f250551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: indicator
+    second: {fileID: 2100000, guid: 95af91dfb1214964997a2037b5a8dddc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: led_light
+    second: {fileID: 2100000, guid: 3e4a22ab16128bc4c8512221d2e6cb2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: led_light2
+    second: {fileID: 2100000, guid: c085b74de66db5f4ca68d5bbb3f09ccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 740ff8381cb6f1241aa9309a47021c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_gray
+    second: {fileID: 2100000, guid: e66921d18ed2450458397ac7e10aec3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: c999920c3872b094c8f93525ad77db47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: platenumber
+    second: {fileID: 2100000, guid: 68c2dbb8ed25eaa458c4de1bc21e6382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear-light
+    second: {fileID: 2100000, guid: 699bdecbbe4322245a6c219d03496446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_light
+    second: {fileID: 2100000, guid: 83ceb8a38611ea941b245ca01996a3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reflector
+    second: {fileID: 2100000, guid: 593b7c17822c9bf499aeb2bde6d53199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reflector_rear
+    second: {fileID: 2100000, guid: 594d14f6f1b2595499498acbeec8f9b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim_texture
+    second: {fileID: 2100000, guid: 4b3b0dd39d0789f45a1461d24edf6cec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber_tyre
+    second: {fileID: 2100000, guid: 4ecf7ef9a26522849a70eacdcd591b09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sidemirror
+    second: {fileID: 2100000, guid: f354a5d84463fbf40bdbe98ed6b1f0cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windowrear
+    second: {fileID: 2100000, guid: c0e24eb4e1357364c81d3426c03be48a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 37bbe3ff-2018-audi-a7-sportback-42csp
+    second: {fileID: 2800000, guid: cca39c105bfa9c042b68e0dca19b612e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Interior_Albedo_4K
+    second: {fileID: 2800000, guid: 3b041066096fe664182dda32dcdccc34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Interior_Metallic_4K
+    second: {fileID: 2800000, guid: e8e70923b8e732b4faa4c4b3882d0691, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Interior_Normal_4K
+    second: {fileID: 2800000, guid: f764eadacdac20f48a9bf56b07860c2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Interior_Roughness_4K
+    second: {fileID: 2800000, guid: b856a806d8644ec42bdecfe4300a281e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalPlates_Normal_22
+    second: {fileID: 2800000, guid: bc7ccfc7852f15647814c26a7cdaaf19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Normal circle
+    second: {fileID: 2800000, guid: 8682d6c54d13e40428b24b53c10ad8f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SquareDiffuser_N
+    second: {fileID: 2800000, guid: 040d78911074bf2479cfd48914735e1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: car_plaate
+    second: {fileID: 2800000, guid: d5c92fda57e14234292e1b6a41d35745, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: close-up-shot-fully-digital-speedometer-car-dashboard-details-indication-lamps-instrument-panel-modern-214358628
+    second: {fileID: 2800000, guid: 2754cbd440ba9cb4ea8d001098e6c8cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: final_normal
+    second: {fileID: 2800000, guid: 1098a3c4769b9f94a938b2118b443489, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rims_4K_albedo
+    second: {fileID: 2800000, guid: 0e22c48de0a34c840bc317596f39dbfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rims_4K_metallic
+    second: {fileID: 2800000, guid: 61714fb28436cb740b2c63cc9e26c437, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rims_4K_normal
+    second: {fileID: 2800000, guid: 862750548b7850c4194550035bb8cbe7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rims_4K_roughness
+    second: {fileID: 2800000, guid: 31e9ed5bc15030d4f964c1bd53aad742, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roughness_4K
+    second: {fileID: 2800000, guid: aa783fbf20195994bb92b4519eb06bd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sidemirror_4K_albedo
+    second: {fileID: 2800000, guid: c0dcfac2378465d459469521a36ab223, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sidemirror_4K_normal
+    second: {fileID: 2800000, guid: 6800e5ba63bb09a42a5599b1651eb723, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sidemirror_4K_roughness
+    second: {fileID: 2800000, guid: 521ddf367157cee46984358774a99d12, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.25
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.25
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
