@@ -8,11 +8,10 @@ Sono possibili le seguenti modifiche:
 - Rotazione
 - Scala
 
-E' possibile visualizzare e editare un modulo di report in app.
-Successivamente il report può essere salvato sul dispositivo tramite un file Json.
+E' possibile visualizzare ed editare un modulo di report in app.
+Successivamente il report può essere salvato sul dispositivo come file Json. Il path di salvataggio verrà stampato a schermo.
 
 E' presente un tutorial introduttivo, composto da schermate dell'applicazione stessa.
-
 
 # Build
 Piattaforma: Samsung
